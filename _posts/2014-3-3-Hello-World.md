@@ -12,7 +12,7 @@ $$\exists k,\emptyset 2ax$$
 $\forall i12klj$
 
 $$\begin{bmatrix}
-0 & 1 & 0\\
+0 & 1 & 0 \\
 8 & 9 & 0
 \end{bmatrix}$$
 
