@@ -3,9 +3,11 @@ layout: post
 title: First try using mathjax
 ---
 
-$$2ax$$
+$$\exists k,\emptyset 2ax$$
 
-$12klj$
+$\forall i12klj$
+
+$\begin{bmatrix} 0 & 1 & 0 \\ 8 & 9 & 0 \end{bmatrix}$
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
