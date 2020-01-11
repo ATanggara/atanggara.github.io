@@ -14,7 +14,7 @@
 
 In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![Jekyll Now Theme Screenshot](/original_jekyllnow_guide/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 ## Quick Start
 
@@ -24,7 +24,7 @@ Fork this repo, then rename the repository to yourgithubusername.github.io.
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
-![Step 1](/images/step1.gif "Step 1")
+![Step 1](/original_jekyllnow_guide/step1.gif "Step 1")
 
 ### Step 2) Customize and view your site
 
